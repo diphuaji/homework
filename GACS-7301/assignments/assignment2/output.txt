@@ -1,0 +1,4429 @@
+m=1 for this round
+clientPing_v1 1 1 1518912822.41
+message from server: LOWER CASE
+RTT: 0.039000
+clientPing_v1 2 1 1518912822.45
+Request time out
+clientPing_v1 2 2 1518912823.45
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 3 1 1518912823.46
+message from server: LOWER CASE
+RTT: 0.017000
+clientPing_v1 3 2 1518912823.47
+Request time out
+clientPing_v1 3 3 1518912824.47
+message from server: LOWER CASE
+RTT: 0.028000
+clientPing_v1 4 1 1518912824.5
+message from server: LOWER CASE
+RTT: 0.019000
+clientPing_v1 4 2 1518912824.52
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 4 3 1518912824.52
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 4 4 1518912824.53
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 5 1 1518912824.53
+message from server: LOWER CASE
+RTT: 0.013000
+clientPing_v1 5 2 1518912824.55
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 5 3 1518912824.56
+Request time out
+clientPing_v1 5 4 1518912825.56
+Request time out
+clientPing_v1 5 5 1518912826.56
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 6 1 1518912826.56
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 6 2 1518912826.57
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 6 3 1518912826.57
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 6 4 1518912826.57
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 6 5 1518912826.58
+Request time out
+clientPing_v1 6 6 1518912827.58
+message from server: LOWER CASE
+RTT: 0.015000
+clientPing_v1 7 1 1518912827.59
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 7 2 1518912827.6
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 7 3 1518912827.6
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 7 4 1518912827.6
+Request time out
+clientPing_v1 7 5 1518912828.6
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 7 6 1518912828.61
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 7 7 1518912828.61
+Request time out
+clientPing_v1 8 1 1518912829.61
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 8 2 1518912829.62
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 8 3 1518912829.62
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 8 4 1518912829.62
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 8 5 1518912829.63
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 8 6 1518912829.63
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 8 7 1518912829.64
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 8 8 1518912829.64
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 9 1 1518912829.64
+Request time out
+clientPing_v1 9 2 1518912830.64
+Request time out
+clientPing_v1 9 3 1518912831.64
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 9 4 1518912831.65
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 9 5 1518912831.65
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 9 6 1518912831.65
+message from server: LOWER CASE
+RTT: 0.018000
+clientPing_v1 9 7 1518912831.67
+message from server: LOWER CASE
+RTT: 0.019000
+clientPing_v1 9 8 1518912831.69
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 9 9 1518912831.69
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 10 1 1518912831.7
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 10 2 1518912831.7
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 10 3 1518912831.71
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 10 4 1518912831.71
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 10 5 1518912831.71
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 10 6 1518912831.72
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 10 7 1518912831.72
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 10 8 1518912831.73
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 10 9 1518912831.73
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 10 10 1518912831.73
+Request time out
+clientPing_v1 11 1 1518912832.73
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 11 2 1518912832.74
+message from server: LOWER CASE
+RTT: 0.011000
+clientPing_v1 11 3 1518912832.75
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 11 4 1518912832.75
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 11 5 1518912832.76
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 11 6 1518912832.76
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 11 7 1518912832.77
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 11 8 1518912832.77
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 11 9 1518912832.78
+message from server: LOWER CASE
+RTT: 0.013000
+clientPing_v1 11 10 1518912832.79
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 11 11 1518912832.8
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 12 1 1518912832.8
+Request time out
+clientPing_v1 12 2 1518912833.8
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 12 3 1518912833.81
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 12 4 1518912833.81
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 12 5 1518912833.82
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 12 6 1518912833.83
+Request time out
+clientPing_v1 12 7 1518912834.83
+Request time out
+clientPing_v1 12 8 1518912835.83
+Request time out
+clientPing_v1 12 9 1518912836.83
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 12 10 1518912836.83
+Request time out
+clientPing_v1 12 11 1518912837.83
+Request time out
+clientPing_v1 12 12 1518912838.83
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 13 1 1518912838.84
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 13 2 1518912838.84
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 13 3 1518912838.84
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 13 4 1518912838.84
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 13 5 1518912838.85
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 13 6 1518912838.85
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 13 7 1518912838.86
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 13 8 1518912838.86
+Request time out
+clientPing_v1 13 9 1518912839.86
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 13 10 1518912839.87
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 13 11 1518912839.87
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 13 12 1518912839.87
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 13 13 1518912839.88
+Request time out
+clientPing_v1 14 1 1518912840.88
+Request time out
+clientPing_v1 14 2 1518912841.88
+message from server: LOWER CASE
+RTT: 0.013000
+clientPing_v1 14 3 1518912841.89
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 14 4 1518912841.89
+Request time out
+clientPing_v1 14 5 1518912842.89
+message from server: LOWER CASE
+RTT: 0.012000
+clientPing_v1 14 6 1518912842.91
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 14 7 1518912842.91
+message from server: LOWER CASE
+RTT: 0.018000
+clientPing_v1 14 8 1518912842.93
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 14 9 1518912842.93
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 14 10 1518912842.93
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 14 11 1518912842.94
+message from server: LOWER CASE
+RTT: 0.034000
+clientPing_v1 14 12 1518912842.97
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 14 13 1518912842.98
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 14 14 1518912842.98
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 15 1 1518912842.99
+Request time out
+clientPing_v1 15 2 1518912843.99
+Request time out
+clientPing_v1 15 3 1518912844.99
+message from server: LOWER CASE
+RTT: 0.092000
+clientPing_v1 15 4 1518912845.08
+Request time out
+clientPing_v1 15 5 1518912846.08
+message from server: LOWER CASE
+RTT: 0.028000
+clientPing_v1 15 6 1518912846.11
+message from server: LOWER CASE
+RTT: 0.014000
+clientPing_v1 15 7 1518912846.12
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 15 8 1518912846.13
+Request time out
+clientPing_v1 15 9 1518912847.13
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 15 10 1518912847.13
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 15 11 1518912847.14
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 15 12 1518912847.14
+Request time out
+clientPing_v1 15 13 1518912848.14
+Request time out
+clientPing_v1 15 14 1518912849.14
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 15 15 1518912849.15
+message from server: LOWER CASE
+RTT: 0.016000
+clientPing_v1 16 1 1518912849.16
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 16 2 1518912849.17
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 16 3 1518912849.17
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 16 4 1518912849.17
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 16 5 1518912849.18
+Request time out
+clientPing_v1 16 6 1518912850.18
+Request time out
+clientPing_v1 16 7 1518912851.18
+Request time out
+clientPing_v1 16 8 1518912852.18
+Request time out
+clientPing_v1 16 9 1518912853.18
+Request time out
+clientPing_v1 16 10 1518912854.18
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 16 11 1518912854.18
+Request time out
+clientPing_v1 16 12 1518912855.18
+Request time out
+clientPing_v1 16 13 1518912856.18
+message from server: LOWER CASE
+RTT: 0.013000
+clientPing_v1 16 14 1518912856.19
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 16 15 1518912856.2
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 16 16 1518912856.2
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 17 1 1518912856.2
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 17 2 1518912856.21
+Request time out
+clientPing_v1 17 3 1518912857.21
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 17 4 1518912857.21
+Request time out
+clientPing_v1 17 5 1518912858.21
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 17 6 1518912858.22
+Request time out
+clientPing_v1 17 7 1518912859.22
+message from server: LOWER CASE
+RTT: 0.037000
+clientPing_v1 17 8 1518912859.26
+message from server: LOWER CASE
+RTT: 0.078000
+clientPing_v1 17 9 1518912859.33
+message from server: LOWER CASE
+RTT: 0.012000
+clientPing_v1 17 10 1518912859.35
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 17 11 1518912859.35
+Request time out
+clientPing_v1 17 12 1518912860.35
+message from server: LOWER CASE
+RTT: 0.040000
+clientPing_v1 17 13 1518912860.39
+message from server: LOWER CASE
+RTT: 0.015000
+clientPing_v1 17 14 1518912860.4
+message from server: LOWER CASE
+RTT: 0.019000
+clientPing_v1 17 15 1518912860.42
+message from server: LOWER CASE
+RTT: 0.015000
+clientPing_v1 17 16 1518912860.44
+Request time out
+clientPing_v1 17 17 1518912861.44
+Request time out
+clientPing_v1 18 1 1518912862.44
+Request time out
+clientPing_v1 18 2 1518912863.44
+message from server: LOWER CASE
+RTT: 0.020000
+clientPing_v1 18 3 1518912863.46
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 18 4 1518912863.46
+message from server: LOWER CASE
+RTT: 0.026000
+clientPing_v1 18 5 1518912863.49
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 18 6 1518912863.49
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 18 7 1518912863.5
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 18 8 1518912863.5
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 18 9 1518912863.5
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 18 10 1518912863.51
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 18 11 1518912863.51
+Request time out
+clientPing_v1 18 12 1518912864.51
+Request time out
+clientPing_v1 18 13 1518912865.51
+Request time out
+clientPing_v1 18 14 1518912866.51
+message from server: LOWER CASE
+RTT: 0.023000
+clientPing_v1 18 15 1518912866.53
+Request time out
+clientPing_v1 18 16 1518912867.53
+message from server: LOWER CASE
+RTT: 0.024000
+clientPing_v1 18 17 1518912867.56
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 18 18 1518912867.57
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 19 1 1518912867.57
+message from server: LOWER CASE
+RTT: 0.015000
+clientPing_v1 19 2 1518912867.58
+Request time out
+clientPing_v1 19 3 1518912868.58
+Request time out
+clientPing_v1 19 4 1518912869.59
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 19 5 1518912869.59
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 19 6 1518912869.59
+Request time out
+clientPing_v1 19 7 1518912870.59
+message from server: LOWER CASE
+RTT: 0.029000
+clientPing_v1 19 8 1518912870.62
+Request time out
+clientPing_v1 19 9 1518912871.62
+message from server: LOWER CASE
+RTT: 0.027000
+clientPing_v1 19 10 1518912871.65
+Request time out
+clientPing_v1 19 11 1518912872.65
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 19 12 1518912872.66
+Request time out
+clientPing_v1 19 13 1518912873.66
+message from server: LOWER CASE
+RTT: 0.019000
+clientPing_v1 19 14 1518912873.68
+message from server: LOWER CASE
+RTT: 0.010000
+clientPing_v1 19 15 1518912873.69
+Request time out
+clientPing_v1 19 16 1518912874.69
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 19 17 1518912874.69
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 19 18 1518912874.7
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 19 19 1518912874.7
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 20 1 1518912874.71
+Request time out
+clientPing_v1 20 2 1518912875.71
+message from server: LOWER CASE
+RTT: 0.014000
+clientPing_v1 20 3 1518912875.72
+message from server: LOWER CASE
+RTT: 0.014000
+clientPing_v1 20 4 1518912875.74
+Request time out
+clientPing_v1 20 5 1518912876.74
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 20 6 1518912876.74
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 7 1518912876.74
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 20 8 1518912876.75
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 20 9 1518912876.75
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 10 1518912876.75
+Request time out
+clientPing_v1 20 11 1518912877.76
+message from server: LOWER CASE
+RTT: 0.014000
+clientPing_v1 20 12 1518912877.77
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 13 1518912877.77
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 20 14 1518912877.78
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 20 15 1518912877.78
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 16 1518912877.78
+Request time out
+clientPing_v1 20 17 1518912878.78
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 20 18 1518912878.79
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 20 19 1518912878.79
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 20 20 1518912878.8
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 21 1 1518912878.8
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 21 2 1518912878.8
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 21 3 1518912878.81
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 21 4 1518912878.81
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 21 5 1518912878.81
+message from server: LOWER CASE
+RTT: 0.021000
+clientPing_v1 21 6 1518912878.83
+Request time out
+clientPing_v1 21 7 1518912879.83
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 21 8 1518912879.84
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 21 9 1518912879.84
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 21 10 1518912879.84
+Request time out
+clientPing_v1 21 11 1518912880.84
+Request time out
+clientPing_v1 21 12 1518912881.85
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 21 13 1518912881.85
+Request time out
+clientPing_v1 21 14 1518912882.85
+message from server: LOWER CASE
+RTT: 0.026000
+clientPing_v1 21 15 1518912882.87
+message from server: LOWER CASE
+RTT: 0.068000
+clientPing_v1 21 16 1518912882.94
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 21 17 1518912882.95
+Request time out
+clientPing_v1 21 18 1518912883.95
+message from server: LOWER CASE
+RTT: 0.017000
+clientPing_v1 21 19 1518912883.96
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 21 20 1518912883.97
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 21 21 1518912883.98
+message from server: LOWER CASE
+RTT: 0.011000
+clientPing_v1 22 1 1518912883.99
+message from server: LOWER CASE
+RTT: 0.021000
+clientPing_v1 22 2 1518912884.01
+message from server: LOWER CASE
+RTT: 0.018000
+clientPing_v1 22 3 1518912884.03
+Request time out
+clientPing_v1 22 4 1518912885.03
+message from server: LOWER CASE
+RTT: 0.051000
+clientPing_v1 22 5 1518912885.08
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 22 6 1518912885.08
+Request time out
+clientPing_v1 22 7 1518912886.08
+message from server: LOWER CASE
+RTT: 0.023000
+clientPing_v1 22 8 1518912886.11
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 22 9 1518912886.11
+Request time out
+clientPing_v1 22 10 1518912887.11
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 11 1518912887.11
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 12 1518912887.11
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 22 13 1518912887.12
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 22 14 1518912887.12
+Request time out
+clientPing_v1 22 15 1518912888.12
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 22 16 1518912888.13
+Request time out
+clientPing_v1 22 17 1518912889.13
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 18 1518912889.14
+Request time out
+clientPing_v1 22 19 1518912890.14
+Request time out
+clientPing_v1 22 20 1518912891.14
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 22 21 1518912891.15
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 22 22 1518912891.15
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 1 1518912891.16
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 23 2 1518912891.16
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 3 1518912891.16
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 23 4 1518912891.16
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 5 1518912891.17
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 6 1518912891.17
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 23 7 1518912891.17
+Request time out
+clientPing_v1 23 8 1518912892.17
+message from server: LOWER CASE
+RTT: 0.012000
+clientPing_v1 23 9 1518912892.19
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 10 1518912892.19
+message from server: LOWER CASE
+RTT: 0.013000
+clientPing_v1 23 11 1518912892.2
+message from server: LOWER CASE
+RTT: 0.020000
+clientPing_v1 23 12 1518912892.22
+message from server: LOWER CASE
+RTT: 0.010000
+clientPing_v1 23 13 1518912892.23
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 14 1518912892.24
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 23 15 1518912892.24
+Request time out
+clientPing_v1 23 16 1518912893.24
+message from server: LOWER CASE
+RTT: 0.018000
+clientPing_v1 23 17 1518912893.26
+Request time out
+clientPing_v1 23 18 1518912894.26
+message from server: LOWER CASE
+RTT: 0.048000
+clientPing_v1 23 19 1518912894.31
+Request time out
+clientPing_v1 23 20 1518912895.31
+message from server: LOWER CASE
+RTT: 0.026000
+clientPing_v1 23 21 1518912895.34
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 23 22 1518912895.34
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 23 23 1518912895.34
+message from server: LOWER CASE
+RTT: 0.024000
+clientPing_v1 24 1 1518912895.37
+Request time out
+clientPing_v1 24 2 1518912896.37
+Request time out
+clientPing_v1 24 3 1518912897.37
+Request time out
+clientPing_v1 24 4 1518912898.37
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 24 5 1518912898.38
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 6 1518912898.38
+Request time out
+clientPing_v1 24 7 1518912899.38
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 24 8 1518912899.39
+Request time out
+clientPing_v1 24 9 1518912900.39
+message from server: LOWER CASE
+RTT: 0.019000
+clientPing_v1 24 10 1518912900.41
+Request time out
+clientPing_v1 24 11 1518912901.41
+Request time out
+clientPing_v1 24 12 1518912902.41
+message from server: LOWER CASE
+RTT: 0.020000
+clientPing_v1 24 13 1518912902.43
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 14 1518912902.43
+Request time out
+clientPing_v1 24 15 1518912903.43
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 24 16 1518912903.44
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 17 1518912903.44
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 24 18 1518912903.44
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 19 1518912903.44
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 24 20 1518912903.45
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 21 1518912903.45
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 24 22 1518912903.45
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 23 1518912903.45
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 24 24 1518912903.46
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 25 1 1518912903.46
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 25 2 1518912903.46
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 25 3 1518912903.47
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 25 4 1518912903.47
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 25 5 1518912903.47
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 25 6 1518912903.48
+Request time out
+clientPing_v1 25 7 1518912904.48
+Request time out
+clientPing_v1 25 8 1518912905.48
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 25 9 1518912905.49
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 10 1518912905.49
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 25 11 1518912905.49
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 12 1518912905.49
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 25 13 1518912905.5
+Request time out
+clientPing_v1 25 14 1518912906.5
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 25 15 1518912906.51
+Request time out
+clientPing_v1 25 16 1518912907.51
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 25 17 1518912907.51
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 18 1518912907.52
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 19 1518912907.52
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 25 20 1518912907.53
+Request time out
+clientPing_v1 25 21 1518912908.53
+message from server: LOWER CASE
+RTT: 0.011000
+clientPing_v1 25 22 1518912908.54
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 25 23 1518912908.55
+message from server: LOWER CASE
+RTT: 0.048000
+clientPing_v1 25 24 1518912908.59
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 25 25 1518912908.6
+message from server: LOWER CASE
+RTT: 0.005000
+m=2 for this round
+clientPing_v1 1 1 1518912908.6
+Request time out
+clientPing_v1 2 1 1518912910.6
+message from server: LOWER CASE
+RTT: 0.040000
+clientPing_v1 2 2 1518912910.64
+Request time out
+clientPing_v1 3 1 1518912912.64
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 3 2 1518912912.65
+Request time out
+clientPing_v1 3 3 1518912914.65
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 4 1 1518912914.65
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 4 2 1518912914.66
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 4 3 1518912914.66
+Request time out
+clientPing_v1 4 4 1518912916.66
+Request time out
+clientPing_v1 5 1 1518912918.66
+Request time out
+clientPing_v1 5 2 1518912920.66
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 5 3 1518912920.67
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 5 4 1518912920.68
+Request time out
+clientPing_v1 5 5 1518912922.68
+message from server: LOWER CASE
+RTT: 0.091000
+clientPing_v1 6 1 1518912922.77
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 6 2 1518912922.77
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 6 3 1518912922.78
+message from server: LOWER CASE
+RTT: 0.034000
+clientPing_v1 6 4 1518912922.81
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 6 5 1518912922.81
+message from server: LOWER CASE
+RTT: 0.010000
+clientPing_v1 6 6 1518912922.82
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 7 1 1518912922.83
+Request time out
+clientPing_v1 7 2 1518912924.83
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 7 3 1518912924.83
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 7 4 1518912924.84
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 7 5 1518912924.84
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 7 6 1518912924.84
+Request time out
+clientPing_v1 7 7 1518912926.84
+message from server: LOWER CASE
+RTT: 0.023000
+clientPing_v1 8 1 1518912926.86
+Request time out
+clientPing_v1 8 2 1518912928.86
+message from server: LOWER CASE
+RTT: 0.017000
+clientPing_v1 8 3 1518912928.88
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 8 4 1518912928.88
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 8 5 1518912928.88
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 8 6 1518912928.89
+Request time out
+clientPing_v1 8 7 1518912930.89
+message from server: LOWER CASE
+RTT: 0.036000
+clientPing_v1 8 8 1518912930.92
+message from server: LOWER CASE
+RTT: 0.025000
+clientPing_v1 9 1 1518912930.95
+Request time out
+clientPing_v1 9 2 1518912932.95
+message from server: LOWER CASE
+RTT: 0.014000
+clientPing_v1 9 3 1518912932.96
+message from server: LOWER CASE
+RTT: 0.052000
+clientPing_v1 9 4 1518912933.02
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 9 5 1518912933.02
+Request time out
+clientPing_v1 9 6 1518912935.02
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 9 7 1518912935.02
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 9 8 1518912935.03
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 9 9 1518912935.03
+Request time out
+clientPing_v1 10 1 1518912937.03
+Request time out
+clientPing_v1 10 2 1518912939.03
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 10 3 1518912939.04
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 10 4 1518912939.04
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 10 5 1518912939.04
+Request time out
+clientPing_v1 10 6 1518912941.04
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 10 7 1518912941.05
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 10 8 1518912941.05
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 10 9 1518912941.06
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 10 10 1518912941.06
+Request time out
+clientPing_v1 11 1 1518912943.06
+Request time out
+clientPing_v1 11 2 1518912945.06
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 11 3 1518912945.07
+Request time out
+clientPing_v1 11 4 1518912947.07
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 11 5 1518912947.07
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 11 6 1518912947.08
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 11 7 1518912947.08
+Request time out
+clientPing_v1 11 8 1518912949.08
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 11 9 1518912949.09
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 11 10 1518912949.09
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 11 11 1518912949.09
+Request time out
+clientPing_v1 12 1 1518912951.09
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 12 2 1518912951.1
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 12 3 1518912951.1
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 12 4 1518912951.11
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 12 5 1518912951.11
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 12 6 1518912951.11
+Request time out
+clientPing_v1 12 7 1518912953.11
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 12 8 1518912953.12
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 12 9 1518912953.12
+message from server: LOWER CASE
+RTT: 0.013000
+clientPing_v1 12 10 1518912953.13
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 12 11 1518912953.13
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 12 12 1518912953.14
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 13 1 1518912953.14
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 13 2 1518912953.14
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 13 3 1518912953.15
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 13 4 1518912953.15
+Request time out
+clientPing_v1 13 5 1518912955.15
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 13 6 1518912955.15
+Request time out
+clientPing_v1 13 7 1518912957.15
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 13 8 1518912957.16
+Request time out
+clientPing_v1 13 9 1518912959.16
+message from server: LOWER CASE
+RTT: 0.014000
+clientPing_v1 13 10 1518912959.18
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 13 11 1518912959.18
+Request time out
+clientPing_v1 13 12 1518912961.18
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 13 13 1518912961.19
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 14 1 1518912961.19
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 14 2 1518912961.2
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 14 3 1518912961.2
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 14 4 1518912961.2
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 14 5 1518912961.2
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 14 6 1518912961.21
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 14 7 1518912961.21
+message from server: LOWER CASE
+RTT: 0.014000
+clientPing_v1 14 8 1518912961.23
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 14 9 1518912961.23
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 14 10 1518912961.23
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 14 11 1518912961.24
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 14 12 1518912961.24
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 14 13 1518912961.24
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 14 14 1518912961.24
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 15 1 1518912961.25
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 15 2 1518912961.25
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 15 3 1518912961.25
+Request time out
+clientPing_v1 15 4 1518912963.25
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 15 5 1518912963.26
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 15 6 1518912963.26
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 15 7 1518912963.26
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 15 8 1518912963.27
+Request time out
+clientPing_v1 15 9 1518912965.27
+Request time out
+clientPing_v1 15 10 1518912967.27
+message from server: LOWER CASE
+RTT: 0.014000
+clientPing_v1 15 11 1518912967.28
+message from server: LOWER CASE
+RTT: 0.026000
+clientPing_v1 15 12 1518912967.31
+message from server: LOWER CASE
+RTT: 0.030000
+clientPing_v1 15 13 1518912967.34
+Request time out
+clientPing_v1 15 14 1518912969.34
+message from server: LOWER CASE
+RTT: 0.026000
+clientPing_v1 15 15 1518912969.37
+message from server: LOWER CASE
+RTT: 0.011000
+clientPing_v1 16 1 1518912969.38
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 16 2 1518912969.38
+message from server: LOWER CASE
+RTT: 0.076000
+clientPing_v1 16 3 1518912969.46
+Request time out
+clientPing_v1 16 4 1518912971.46
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 16 5 1518912971.46
+Request time out
+clientPing_v1 16 6 1518912973.46
+Request time out
+clientPing_v1 16 7 1518912975.46
+message from server: LOWER CASE
+RTT: 0.015000
+clientPing_v1 16 8 1518912975.48
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 16 9 1518912975.48
+Request time out
+clientPing_v1 16 10 1518912977.48
+Request time out
+clientPing_v1 16 11 1518912979.48
+message from server: LOWER CASE
+RTT: 0.014000
+clientPing_v1 16 12 1518912979.5
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 16 13 1518912979.5
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 16 14 1518912979.51
+message from server: LOWER CASE
+RTT: 0.051000
+clientPing_v1 16 15 1518912979.56
+Request time out
+clientPing_v1 16 16 1518912981.56
+message from server: LOWER CASE
+RTT: 0.022000
+clientPing_v1 17 1 1518912981.58
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 17 2 1518912981.58
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 17 3 1518912981.59
+message from server: LOWER CASE
+RTT: 0.011000
+clientPing_v1 17 4 1518912981.6
+Request time out
+clientPing_v1 17 5 1518912983.6
+Request time out
+clientPing_v1 17 6 1518912985.6
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 17 7 1518912985.61
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 17 8 1518912985.61
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 17 9 1518912985.61
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 17 10 1518912985.62
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 17 11 1518912985.62
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 17 12 1518912985.62
+Request time out
+clientPing_v1 17 13 1518912987.62
+Request time out
+clientPing_v1 17 14 1518912989.62
+Request time out
+clientPing_v1 17 15 1518912991.62
+message from server: LOWER CASE
+RTT: 0.011000
+clientPing_v1 17 16 1518912991.63
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 17 17 1518912991.64
+message from server: LOWER CASE
+RTT: 0.020000
+clientPing_v1 18 1 1518912991.66
+message from server: LOWER CASE
+RTT: 0.012000
+clientPing_v1 18 2 1518912991.67
+Request time out
+clientPing_v1 18 3 1518912993.67
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 18 4 1518912993.68
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 18 5 1518912993.68
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 18 6 1518912993.68
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 18 7 1518912993.69
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 18 8 1518912993.69
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 18 9 1518912993.69
+message from server: LOWER CASE
+RTT: 0.018000
+clientPing_v1 18 10 1518912993.71
+Request time out
+clientPing_v1 18 11 1518912995.71
+message from server: LOWER CASE
+RTT: 0.035000
+clientPing_v1 18 12 1518912995.75
+Request time out
+clientPing_v1 18 13 1518912997.75
+message from server: LOWER CASE
+RTT: 0.042000
+clientPing_v1 18 14 1518912997.79
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 18 15 1518912997.79
+Request time out
+clientPing_v1 18 16 1518912999.79
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 18 17 1518912999.8
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 18 18 1518912999.8
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 19 1 1518912999.81
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 19 2 1518912999.81
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 19 3 1518912999.81
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 19 4 1518912999.81
+Request time out
+clientPing_v1 19 5 1518913001.81
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 19 6 1518913001.82
+message from server: LOWER CASE
+RTT: 0.015000
+clientPing_v1 19 7 1518913001.83
+Request time out
+clientPing_v1 19 8 1518913003.83
+Request time out
+clientPing_v1 19 9 1518913005.83
+Request time out
+clientPing_v1 19 10 1518913007.83
+message from server: LOWER CASE
+RTT: 0.020000
+clientPing_v1 19 11 1518913007.85
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 19 12 1518913007.86
+Request time out
+clientPing_v1 19 13 1518913009.86
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 19 14 1518913009.86
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 19 15 1518913009.87
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 19 16 1518913009.87
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 19 17 1518913009.87
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 19 18 1518913009.88
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 19 19 1518913009.88
+Request time out
+clientPing_v1 20 1 1518913011.88
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 2 1518913011.88
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 3 1518913011.88
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 4 1518913011.89
+Request time out
+clientPing_v1 20 5 1518913013.89
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 20 6 1518913013.89
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 20 7 1518913013.9
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 8 1518913013.9
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 20 9 1518913013.9
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 20 10 1518913013.91
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 20 11 1518913013.91
+Request time out
+clientPing_v1 20 12 1518913015.91
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 20 13 1518913015.92
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 20 14 1518913015.92
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 20 15 1518913015.93
+message from server: LOWER CASE
+RTT: 0.012000
+clientPing_v1 20 16 1518913015.94
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 20 17 1518913015.94
+Request time out
+clientPing_v1 20 18 1518913017.94
+message from server: LOWER CASE
+RTT: 0.017000
+clientPing_v1 20 19 1518913017.96
+Request time out
+clientPing_v1 20 20 1518913019.96
+Request time out
+clientPing_v1 21 1 1518913021.96
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 21 2 1518913021.96
+Request time out
+clientPing_v1 21 3 1518913023.96
+message from server: LOWER CASE
+RTT: 0.014000
+clientPing_v1 21 4 1518913023.98
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 21 5 1518913023.98
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 21 6 1518913023.98
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 21 7 1518913023.99
+Request time out
+clientPing_v1 21 8 1518913025.99
+Request time out
+clientPing_v1 21 9 1518913027.99
+message from server: LOWER CASE
+RTT: 0.011000
+clientPing_v1 21 10 1518913028.0
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 21 11 1518913028.0
+message from server: LOWER CASE
+RTT: 0.015000
+clientPing_v1 21 12 1518913028.02
+Request time out
+clientPing_v1 21 13 1518913030.02
+message from server: LOWER CASE
+RTT: 0.053000
+clientPing_v1 21 14 1518913030.07
+Request time out
+clientPing_v1 21 15 1518913032.07
+message from server: LOWER CASE
+RTT: 0.026000
+clientPing_v1 21 16 1518913032.1
+Request time out
+clientPing_v1 21 17 1518913034.1
+message from server: LOWER CASE
+RTT: 0.017000
+clientPing_v1 21 18 1518913034.12
+Request time out
+clientPing_v1 21 19 1518913036.12
+message from server: LOWER CASE
+RTT: 0.021000
+clientPing_v1 21 20 1518913036.14
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 21 21 1518913036.14
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 1 1518913036.14
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 22 2 1518913036.15
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 3 1518913036.15
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 4 1518913036.15
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 5 1518913036.15
+Request time out
+clientPing_v1 22 6 1518913038.15
+Request time out
+clientPing_v1 22 7 1518913040.15
+Request time out
+clientPing_v1 22 8 1518913042.16
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 22 9 1518913042.16
+Request time out
+clientPing_v1 22 10 1518913044.16
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 22 11 1518913044.17
+Request time out
+clientPing_v1 22 12 1518913046.17
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 22 13 1518913046.17
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 14 1518913046.18
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 22 15 1518913046.18
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 16 1518913046.18
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 22 17 1518913046.18
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 22 18 1518913046.19
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 22 19 1518913046.19
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 22 20 1518913046.19
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 22 21 1518913046.19
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 22 1518913046.2
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 23 1 1518913046.2
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 2 1518913046.2
+Request time out
+clientPing_v1 23 3 1518913048.2
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 23 4 1518913048.21
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 23 5 1518913048.21
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 23 6 1518913048.22
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 7 1518913048.22
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 23 8 1518913048.22
+message from server: LOWER CASE
+RTT: 0.011000
+clientPing_v1 23 9 1518913048.23
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 10 1518913048.24
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 23 11 1518913048.24
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 23 12 1518913048.24
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 13 1518913048.25
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 23 14 1518913048.25
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 15 1518913048.25
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 23 16 1518913048.25
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 23 17 1518913048.26
+Request time out
+clientPing_v1 23 18 1518913050.26
+message from server: LOWER CASE
+RTT: 0.027000
+clientPing_v1 23 19 1518913050.29
+Request time out
+clientPing_v1 23 20 1518913052.29
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 23 21 1518913052.29
+Request time out
+clientPing_v1 23 22 1518913054.29
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 23 23 1518913054.3
+Request time out
+clientPing_v1 24 1 1518913056.3
+Request time out
+clientPing_v1 24 2 1518913058.3
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 24 3 1518913058.3
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 24 4 1518913058.3
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 5 1518913058.31
+Request time out
+clientPing_v1 24 6 1518913060.31
+message from server: LOWER CASE
+RTT: 0.017000
+clientPing_v1 24 7 1518913060.33
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 8 1518913060.33
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 9 1518913060.33
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 10 1518913060.33
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 24 11 1518913060.34
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 12 1518913060.34
+Request time out
+clientPing_v1 24 13 1518913062.34
+Request time out
+clientPing_v1 24 14 1518913064.34
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 24 15 1518913064.34
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 16 1518913064.35
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 24 17 1518913064.35
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 24 18 1518913064.35
+Request time out
+clientPing_v1 24 19 1518913066.36
+Request time out
+clientPing_v1 24 20 1518913068.36
+Request time out
+clientPing_v1 24 21 1518913070.36
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 24 22 1518913070.36
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 24 23 1518913070.37
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 24 24 1518913070.38
+message from server: LOWER CASE
+RTT: 0.012000
+clientPing_v1 25 1 1518913070.39
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 25 2 1518913070.39
+Request time out
+clientPing_v1 25 3 1518913072.39
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 4 1518913072.4
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 25 5 1518913072.4
+Request time out
+clientPing_v1 25 6 1518913074.4
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 25 7 1518913074.4
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 8 1518913074.41
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 25 9 1518913074.41
+Request time out
+clientPing_v1 25 10 1518913076.41
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 11 1518913076.41
+Request time out
+clientPing_v1 25 12 1518913078.42
+Request time out
+clientPing_v1 25 13 1518913080.42
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 25 14 1518913080.42
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 25 15 1518913080.42
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 16 1518913080.43
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 25 17 1518913080.43
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 18 1518913080.43
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 25 19 1518913080.43
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 20 1518913080.44
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 25 21 1518913080.44
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 25 22 1518913080.44
+Request time out
+clientPing_v1 25 23 1518913082.44
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 24 1518913082.44
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 25 25 1518913082.45
+message from server: LOWER CASE
+RTT: 0.008000
+m=3 for this round
+clientPing_v1 1 1 1518913082.45
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 2 1 1518913082.46
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 2 2 1518913082.46
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 3 1 1518913082.47
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 3 2 1518913082.47
+message from server: LOWER CASE
+RTT: 0.019000
+clientPing_v1 3 3 1518913082.49
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 4 1 1518913082.49
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 4 2 1518913082.49
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 4 3 1518913082.5
+Request time out
+clientPing_v1 4 4 1518913085.5
+message from server: LOWER CASE
+RTT: 0.049000
+clientPing_v1 5 1 1518913085.55
+Request time out
+clientPing_v1 5 2 1518913088.55
+message from server: LOWER CASE
+RTT: 0.026000
+clientPing_v1 5 3 1518913088.57
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 5 4 1518913088.58
+Request time out
+clientPing_v1 5 5 1518913091.58
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 6 1 1518913091.58
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 6 2 1518913091.59
+Request time out
+clientPing_v1 6 3 1518913094.59
+message from server: LOWER CASE
+RTT: 0.011000
+clientPing_v1 6 4 1518913094.6
+Request time out
+clientPing_v1 6 5 1518913097.6
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 6 6 1518913097.6
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 7 1 1518913097.61
+Request time out
+clientPing_v1 7 2 1518913100.61
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 7 3 1518913100.61
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 7 4 1518913100.62
+Request time out
+clientPing_v1 7 5 1518913103.62
+message from server: LOWER CASE
+RTT: 0.028000
+clientPing_v1 7 6 1518913103.64
+Request time out
+clientPing_v1 7 7 1518913106.64
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 8 1 1518913106.65
+Request time out
+clientPing_v1 8 2 1518913109.65
+message from server: LOWER CASE
+RTT: 0.016000
+clientPing_v1 8 3 1518913109.66
+Request time out
+clientPing_v1 8 4 1518913112.66
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 8 5 1518913112.67
+Request time out
+clientPing_v1 8 6 1518913115.67
+message from server: LOWER CASE
+RTT: 0.112000
+clientPing_v1 8 7 1518913115.78
+Request time out
+clientPing_v1 8 8 1518913118.78
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 9 1 1518913118.79
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 9 2 1518913118.79
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 9 3 1518913118.8
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 9 4 1518913118.8
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 9 5 1518913118.8
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 9 6 1518913118.8
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 9 7 1518913118.81
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 9 8 1518913118.81
+message from server: LOWER CASE
+RTT: 0.030000
+clientPing_v1 9 9 1518913118.84
+message from server: LOWER CASE
+RTT: 0.012000
+clientPing_v1 10 1 1518913118.85
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 10 2 1518913118.86
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 10 3 1518913118.86
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 10 4 1518913118.87
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 10 5 1518913118.87
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 10 6 1518913118.88
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 10 7 1518913118.88
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 10 8 1518913118.88
+Request time out
+clientPing_v1 10 9 1518913121.88
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 10 10 1518913121.89
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 11 1 1518913121.89
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 11 2 1518913121.9
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 11 3 1518913121.9
+Request time out
+clientPing_v1 11 4 1518913124.9
+message from server: LOWER CASE
+RTT: 0.015000
+clientPing_v1 11 5 1518913124.92
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 11 6 1518913124.92
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 11 7 1518913124.92
+Request time out
+clientPing_v1 11 8 1518913127.92
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 11 9 1518913127.93
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 11 10 1518913127.93
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 11 11 1518913127.93
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 12 1 1518913127.94
+message from server: LOWER CASE
+RTT: 0.012000
+clientPing_v1 12 2 1518913127.95
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 12 3 1518913127.96
+Request time out
+clientPing_v1 12 4 1518913130.96
+Request time out
+clientPing_v1 12 5 1518913133.96
+message from server: LOWER CASE
+RTT: 0.024000
+clientPing_v1 12 6 1518913133.98
+message from server: LOWER CASE
+RTT: 0.032000
+clientPing_v1 12 7 1518913134.01
+message from server: LOWER CASE
+RTT: 0.021000
+clientPing_v1 12 8 1518913134.03
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 12 9 1518913134.04
+message from server: LOWER CASE
+RTT: 0.012000
+clientPing_v1 12 10 1518913134.05
+Request time out
+clientPing_v1 12 11 1518913137.05
+message from server: LOWER CASE
+RTT: 0.020000
+clientPing_v1 12 12 1518913137.07
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 13 1 1518913137.07
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 13 2 1518913137.08
+Request time out
+clientPing_v1 13 3 1518913140.08
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 13 4 1518913140.08
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 13 5 1518913140.08
+Request time out
+clientPing_v1 13 6 1518913143.08
+message from server: LOWER CASE
+RTT: 0.024000
+clientPing_v1 13 7 1518913143.11
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 13 8 1518913143.11
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 13 9 1518913143.12
+message from server: LOWER CASE
+RTT: 0.011000
+clientPing_v1 13 10 1518913143.13
+message from server: LOWER CASE
+RTT: 0.021000
+clientPing_v1 13 11 1518913143.15
+Request time out
+clientPing_v1 13 12 1518913146.15
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 13 13 1518913146.16
+message from server: LOWER CASE
+RTT: 0.011000
+clientPing_v1 14 1 1518913146.17
+message from server: LOWER CASE
+RTT: 0.021000
+clientPing_v1 14 2 1518913146.19
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 14 3 1518913146.2
+Request time out
+clientPing_v1 14 4 1518913149.2
+Request time out
+clientPing_v1 14 5 1518913152.2
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 14 6 1518913152.2
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 14 7 1518913152.21
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 14 8 1518913152.21
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 14 9 1518913152.21
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 14 10 1518913152.22
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 14 11 1518913152.22
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 14 12 1518913152.22
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 14 13 1518913152.22
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 14 14 1518913152.23
+Request time out
+clientPing_v1 15 1 1518913155.23
+message from server: LOWER CASE
+RTT: 0.016000
+clientPing_v1 15 2 1518913155.24
+message from server: LOWER CASE
+RTT: 0.064000
+clientPing_v1 15 3 1518913155.31
+Request time out
+clientPing_v1 15 4 1518913158.31
+Request time out
+clientPing_v1 15 5 1518913161.31
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 15 6 1518913161.32
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 15 7 1518913161.32
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 15 8 1518913161.33
+Request time out
+clientPing_v1 15 9 1518913164.33
+Request time out
+clientPing_v1 15 10 1518913167.33
+message from server: LOWER CASE
+RTT: 0.032000
+clientPing_v1 15 11 1518913167.36
+message from server: LOWER CASE
+RTT: 0.010000
+clientPing_v1 15 12 1518913167.37
+Request time out
+clientPing_v1 15 13 1518913170.37
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 15 14 1518913170.37
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 15 15 1518913170.37
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 16 1 1518913170.38
+Request time out
+clientPing_v1 16 2 1518913173.38
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 16 3 1518913173.38
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 16 4 1518913173.38
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 16 5 1518913173.39
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 16 6 1518913173.39
+Request time out
+clientPing_v1 16 7 1518913176.39
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 16 8 1518913176.39
+Request time out
+clientPing_v1 16 9 1518913179.39
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 16 10 1518913179.4
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 16 11 1518913179.4
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 16 12 1518913179.41
+Request time out
+clientPing_v1 16 13 1518913182.41
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 16 14 1518913182.41
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 16 15 1518913182.42
+message from server: LOWER CASE
+RTT: 0.027000
+clientPing_v1 16 16 1518913182.45
+message from server: LOWER CASE
+RTT: 0.030000
+clientPing_v1 17 1 1518913182.48
+message from server: LOWER CASE
+RTT: 0.027000
+clientPing_v1 17 2 1518913182.51
+message from server: LOWER CASE
+RTT: 0.011000
+clientPing_v1 17 3 1518913182.52
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 17 4 1518913182.53
+Request time out
+clientPing_v1 17 5 1518913185.53
+Request time out
+clientPing_v1 17 6 1518913188.53
+Request time out
+clientPing_v1 17 7 1518913191.53
+message from server: LOWER CASE
+RTT: 0.032000
+clientPing_v1 17 8 1518913191.56
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 17 9 1518913191.56
+Request time out
+clientPing_v1 17 10 1518913194.56
+Request time out
+clientPing_v1 17 11 1518913197.56
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 17 12 1518913197.57
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 17 13 1518913197.57
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 17 14 1518913197.58
+Request time out
+clientPing_v1 17 15 1518913200.58
+message from server: LOWER CASE
+RTT: 0.012000
+clientPing_v1 17 16 1518913200.59
+Request time out
+clientPing_v1 17 17 1518913203.59
+message from server: LOWER CASE
+RTT: 0.013000
+clientPing_v1 18 1 1518913203.6
+Request time out
+clientPing_v1 18 2 1518913206.6
+message from server: LOWER CASE
+RTT: 0.010000
+clientPing_v1 18 3 1518913206.61
+message from server: LOWER CASE
+RTT: 0.014000
+clientPing_v1 18 4 1518913206.62
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 18 5 1518913206.63
+Request time out
+clientPing_v1 18 6 1518913209.63
+message from server: LOWER CASE
+RTT: 0.013000
+clientPing_v1 18 7 1518913209.64
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 18 8 1518913209.65
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 18 9 1518913209.65
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 18 10 1518913209.65
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 18 11 1518913209.65
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 18 12 1518913209.66
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 18 13 1518913209.66
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 18 14 1518913209.66
+Request time out
+clientPing_v1 18 15 1518913212.66
+Request time out
+clientPing_v1 18 16 1518913215.66
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 18 17 1518913215.67
+Request time out
+clientPing_v1 18 18 1518913218.67
+Request time out
+clientPing_v1 19 1 1518913221.67
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 19 2 1518913221.68
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 19 3 1518913221.68
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 19 4 1518913221.69
+Request time out
+clientPing_v1 19 5 1518913224.69
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 19 6 1518913224.69
+Request time out
+clientPing_v1 19 7 1518913227.69
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 19 8 1518913227.7
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 19 9 1518913227.7
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 19 10 1518913227.7
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 19 11 1518913227.71
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 19 12 1518913227.71
+Request time out
+clientPing_v1 19 13 1518913230.71
+Request time out
+clientPing_v1 19 14 1518913233.71
+message from server: LOWER CASE
+RTT: 0.023000
+clientPing_v1 19 15 1518913233.73
+Request time out
+clientPing_v1 19 16 1518913236.73
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 19 17 1518913236.74
+Request time out
+clientPing_v1 19 18 1518913239.74
+Request time out
+clientPing_v1 19 19 1518913242.74
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 1 1518913242.74
+Request time out
+clientPing_v1 20 2 1518913245.74
+message from server: LOWER CASE
+RTT: 0.027000
+clientPing_v1 20 3 1518913245.77
+message from server: LOWER CASE
+RTT: 0.042000
+clientPing_v1 20 4 1518913245.81
+Request time out
+clientPing_v1 20 5 1518913248.81
+Request time out
+clientPing_v1 20 6 1518913251.81
+message from server: LOWER CASE
+RTT: 0.013000
+clientPing_v1 20 7 1518913251.83
+Request time out
+clientPing_v1 20 8 1518913254.83
+message from server: LOWER CASE
+RTT: 0.011000
+clientPing_v1 20 9 1518913254.84
+message from server: LOWER CASE
+RTT: 0.018000
+clientPing_v1 20 10 1518913254.86
+Request time out
+clientPing_v1 20 11 1518913257.86
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 12 1518913257.86
+Request time out
+clientPing_v1 20 13 1518913260.86
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 20 14 1518913260.87
+message from server: LOWER CASE
+RTT: 0.019000
+clientPing_v1 20 15 1518913260.89
+Request time out
+clientPing_v1 20 16 1518913263.89
+Request time out
+clientPing_v1 20 17 1518913266.89
+message from server: LOWER CASE
+RTT: 0.032000
+clientPing_v1 20 18 1518913266.92
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 20 19 1518913266.93
+Request time out
+clientPing_v1 20 20 1518913269.93
+Request time out
+clientPing_v1 21 1 1518913272.93
+Request time out
+clientPing_v1 21 2 1518913275.93
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 21 3 1518913275.93
+Request time out
+clientPing_v1 21 4 1518913278.93
+message from server: LOWER CASE
+RTT: 0.017000
+clientPing_v1 21 5 1518913278.95
+Request time out
+clientPing_v1 21 6 1518913281.95
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 21 7 1518913281.96
+Request time out
+clientPing_v1 21 8 1518913284.96
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 21 9 1518913284.96
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 21 10 1518913284.97
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 21 11 1518913284.97
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 21 12 1518913284.98
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 21 13 1518913284.98
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 21 14 1518913284.98
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 21 15 1518913284.99
+Request time out
+clientPing_v1 21 16 1518913287.99
+Request time out
+clientPing_v1 21 17 1518913290.99
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 21 18 1518913290.99
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 21 19 1518913290.99
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 21 20 1518913291.0
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 21 21 1518913291.0
+Request time out
+clientPing_v1 22 1 1518913294.01
+message from server: LOWER CASE
+RTT: 0.011000
+clientPing_v1 22 2 1518913294.02
+Request time out
+clientPing_v1 22 3 1518913297.02
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 22 4 1518913297.02
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 5 1518913297.02
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 22 6 1518913297.03
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 7 1518913297.03
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 22 8 1518913297.04
+Request time out
+clientPing_v1 22 9 1518913300.04
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 22 10 1518913300.04
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 22 11 1518913300.05
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 22 12 1518913300.05
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 22 13 1518913300.06
+Request time out
+clientPing_v1 22 14 1518913303.06
+Request time out
+clientPing_v1 22 15 1518913306.06
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 22 16 1518913306.06
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 22 17 1518913306.07
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 22 18 1518913306.07
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 19 1518913306.07
+Request time out
+clientPing_v1 22 20 1518913309.07
+Request time out
+clientPing_v1 22 21 1518913312.07
+Request time out
+clientPing_v1 22 22 1518913315.07
+message from server: LOWER CASE
+RTT: 0.042000
+clientPing_v1 23 1 1518913315.11
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 2 1518913315.12
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 23 3 1518913315.12
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 23 4 1518913315.12
+Request time out
+clientPing_v1 23 5 1518913318.12
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 23 6 1518913318.13
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 23 7 1518913318.13
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 23 8 1518913318.13
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 23 9 1518913318.14
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 10 1518913318.14
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 23 11 1518913318.15
+Request time out
+clientPing_v1 23 12 1518913321.15
+Request time out
+clientPing_v1 23 13 1518913324.15
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 23 14 1518913324.16
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 15 1518913324.16
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 23 16 1518913324.16
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 23 17 1518913324.17
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 18 1518913324.17
+Request time out
+clientPing_v1 23 19 1518913327.17
+Request time out
+clientPing_v1 23 20 1518913330.17
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 23 21 1518913330.18
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 23 22 1518913330.19
+message from server: LOWER CASE
+RTT: 0.018000
+clientPing_v1 23 23 1518913330.2
+Request time out
+clientPing_v1 24 1 1518913333.21
+message from server: LOWER CASE
+RTT: 0.016000
+clientPing_v1 24 2 1518913333.22
+message from server: LOWER CASE
+RTT: 0.012000
+clientPing_v1 24 3 1518913333.23
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 24 4 1518913333.24
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 5 1518913333.24
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 24 6 1518913333.25
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 24 7 1518913333.25
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 8 1518913333.25
+Request time out
+clientPing_v1 24 9 1518913336.26
+message from server: LOWER CASE
+RTT: 0.010000
+clientPing_v1 24 10 1518913336.27
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 11 1518913336.27
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 24 12 1518913336.27
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 24 13 1518913336.27
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 14 1518913336.28
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 24 15 1518913336.28
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 24 16 1518913336.28
+Request time out
+clientPing_v1 24 17 1518913339.28
+message from server: LOWER CASE
+RTT: 0.022000
+clientPing_v1 24 18 1518913339.31
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 24 19 1518913339.31
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 24 20 1518913339.32
+Request time out
+clientPing_v1 24 21 1518913342.32
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 22 1518913342.32
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 24 23 1518913342.32
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 24 1518913342.33
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 1 1518913342.33
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 2 1518913342.33
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 3 1518913342.33
+Request time out
+clientPing_v1 25 4 1518913345.33
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 25 5 1518913345.34
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 6 1518913345.34
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 25 7 1518913345.35
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 8 1518913345.35
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 25 9 1518913345.35
+Request time out
+clientPing_v1 25 10 1518913348.35
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 25 11 1518913348.36
+Request time out
+clientPing_v1 25 12 1518913351.36
+message from server: LOWER CASE
+RTT: 0.021000
+clientPing_v1 25 13 1518913351.38
+message from server: LOWER CASE
+RTT: 0.041000
+clientPing_v1 25 14 1518913351.42
+Request time out
+clientPing_v1 25 15 1518913354.42
+message from server: LOWER CASE
+RTT: 0.012000
+clientPing_v1 25 16 1518913354.43
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 17 1518913354.44
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 18 1518913354.44
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 25 19 1518913354.44
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 25 20 1518913354.45
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 21 1518913354.45
+Request time out
+clientPing_v1 25 22 1518913357.45
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 25 23 1518913357.46
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 25 24 1518913357.46
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 25 25 1518913357.47
+message from server: LOWER CASE
+RTT: 0.004000
+m=4 for this round
+clientPing_v1 1 1 1518913357.47
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 2 1 1518913357.47
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 2 2 1518913357.48
+Request time out
+clientPing_v1 3 1 1518913361.48
+Request time out
+clientPing_v1 3 2 1518913365.48
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 3 3 1518913365.48
+Request time out
+clientPing_v1 4 1 1518913369.48
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 4 2 1518913369.48
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 4 3 1518913369.49
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 4 4 1518913369.49
+Request time out
+clientPing_v1 5 1 1518913373.49
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 5 2 1518913373.5
+Request time out
+clientPing_v1 5 3 1518913377.5
+Request time out
+clientPing_v1 5 4 1518913381.5
+message from server: LOWER CASE
+RTT: 0.014000
+clientPing_v1 5 5 1518913381.52
+Request time out
+clientPing_v1 6 1 1518913385.52
+message from server: LOWER CASE
+RTT: 0.014000
+clientPing_v1 6 2 1518913385.53
+Request time out
+clientPing_v1 6 3 1518913389.53
+Request time out
+clientPing_v1 6 4 1518913393.53
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 6 5 1518913393.54
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 6 6 1518913393.54
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 7 1 1518913393.54
+Request time out
+clientPing_v1 7 2 1518913397.54
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 7 3 1518913397.55
+message from server: LOWER CASE
+RTT: 0.031000
+clientPing_v1 7 4 1518913397.58
+message from server: LOWER CASE
+RTT: 0.022000
+clientPing_v1 7 5 1518913397.6
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 7 6 1518913397.61
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 7 7 1518913397.61
+message from server: LOWER CASE
+RTT: 0.019000
+clientPing_v1 8 1 1518913397.63
+message from server: LOWER CASE
+RTT: 0.012000
+clientPing_v1 8 2 1518913397.64
+message from server: LOWER CASE
+RTT: 0.022000
+clientPing_v1 8 3 1518913397.66
+message from server: LOWER CASE
+RTT: 0.027000
+clientPing_v1 8 4 1518913397.69
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 8 5 1518913397.69
+Request time out
+clientPing_v1 8 6 1518913401.69
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 8 7 1518913401.7
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 8 8 1518913401.7
+Request time out
+clientPing_v1 9 1 1518913405.7
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 9 2 1518913405.71
+Request time out
+clientPing_v1 9 3 1518913409.71
+Request time out
+clientPing_v1 9 4 1518913413.71
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 9 5 1518913413.71
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 9 6 1518913413.72
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 9 7 1518913413.72
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 9 8 1518913413.72
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 9 9 1518913413.73
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 10 1 1518913413.73
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 10 2 1518913413.73
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 10 3 1518913413.74
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 10 4 1518913413.74
+Request time out
+clientPing_v1 10 5 1518913417.74
+Request time out
+clientPing_v1 10 6 1518913421.74
+message from server: LOWER CASE
+RTT: 0.022000
+clientPing_v1 10 7 1518913421.76
+Request time out
+clientPing_v1 10 8 1518913425.76
+message from server: LOWER CASE
+RTT: 0.021000
+clientPing_v1 10 9 1518913425.79
+message from server: LOWER CASE
+RTT: 0.059000
+clientPing_v1 10 10 1518913425.84
+message from server: LOWER CASE
+RTT: 0.018000
+clientPing_v1 11 1 1518913425.86
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 11 2 1518913425.87
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 11 3 1518913425.87
+Request time out
+clientPing_v1 11 4 1518913429.87
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 11 5 1518913429.88
+Request time out
+clientPing_v1 11 6 1518913433.88
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 11 7 1518913433.88
+Request time out
+clientPing_v1 11 8 1518913437.88
+Request time out
+clientPing_v1 11 9 1518913441.88
+Request time out
+clientPing_v1 11 10 1518913445.88
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 11 11 1518913445.89
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 12 1 1518913445.89
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 12 2 1518913445.89
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 12 3 1518913445.9
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 12 4 1518913445.9
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 12 5 1518913445.9
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 12 6 1518913445.91
+Request time out
+clientPing_v1 12 7 1518913449.91
+Request time out
+clientPing_v1 12 8 1518913453.91
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 12 9 1518913453.91
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 12 10 1518913453.91
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 12 11 1518913453.92
+Request time out
+clientPing_v1 12 12 1518913457.92
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 13 1 1518913457.92
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 13 2 1518913457.92
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 13 3 1518913457.93
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 13 4 1518913457.93
+Request time out
+clientPing_v1 13 5 1518913461.93
+message from server: LOWER CASE
+RTT: 0.013000
+clientPing_v1 13 6 1518913461.94
+Request time out
+clientPing_v1 13 7 1518913465.94
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 13 8 1518913465.95
+message from server: LOWER CASE
+RTT: 0.019000
+clientPing_v1 13 9 1518913465.97
+Request time out
+clientPing_v1 13 10 1518913469.97
+Request time out
+clientPing_v1 13 11 1518913473.97
+Request time out
+clientPing_v1 13 12 1518913477.97
+Request time out
+clientPing_v1 13 13 1518913481.97
+Request time out
+clientPing_v1 14 1 1518913485.97
+Request time out
+clientPing_v1 14 2 1518913489.97
+message from server: LOWER CASE
+RTT: 0.026000
+clientPing_v1 14 3 1518913490.0
+message from server: LOWER CASE
+RTT: 0.049000
+clientPing_v1 14 4 1518913490.05
+Request time out
+clientPing_v1 14 5 1518913494.05
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 14 6 1518913494.05
+Request time out
+clientPing_v1 14 7 1518913498.05
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 14 8 1518913498.06
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 14 9 1518913498.06
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 14 10 1518913498.06
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 14 11 1518913498.07
+Request time out
+clientPing_v1 14 12 1518913502.07
+Request time out
+clientPing_v1 14 13 1518913506.07
+message from server: LOWER CASE
+RTT: 0.014000
+clientPing_v1 14 14 1518913506.09
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 15 1 1518913506.09
+Request time out
+clientPing_v1 15 2 1518913510.09
+Request time out
+clientPing_v1 15 3 1518913514.09
+message from server: LOWER CASE
+RTT: 0.018000
+clientPing_v1 15 4 1518913514.11
+Request time out
+clientPing_v1 15 5 1518913518.11
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 15 6 1518913518.11
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 15 7 1518913518.12
+Request time out
+clientPing_v1 15 8 1518913522.12
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 15 9 1518913522.12
+Request time out
+clientPing_v1 15 10 1518913526.12
+Request time out
+clientPing_v1 15 11 1518913530.13
+Request time out
+clientPing_v1 15 12 1518913534.13
+message from server: LOWER CASE
+RTT: 0.038000
+clientPing_v1 15 13 1518913534.16
+Request time out
+clientPing_v1 15 14 1518913538.17
+message from server: LOWER CASE
+RTT: 0.020000
+clientPing_v1 15 15 1518913538.19
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 16 1 1518913538.19
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 16 2 1518913538.19
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 16 3 1518913538.2
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 16 4 1518913538.2
+Request time out
+clientPing_v1 16 5 1518913542.2
+message from server: LOWER CASE
+RTT: 0.013000
+clientPing_v1 16 6 1518913542.21
+message from server: LOWER CASE
+RTT: 0.027000
+clientPing_v1 16 7 1518913542.24
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 16 8 1518913542.24
+Request time out
+clientPing_v1 16 9 1518913546.24
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 16 10 1518913546.25
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 16 11 1518913546.25
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 16 12 1518913546.26
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 16 13 1518913546.26
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 16 14 1518913546.26
+Request time out
+clientPing_v1 16 15 1518913550.26
+Request time out
+clientPing_v1 16 16 1518913554.26
+message from server: LOWER CASE
+RTT: 0.015000
+clientPing_v1 17 1 1518913554.28
+Request time out
+clientPing_v1 17 2 1518913558.28
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 17 3 1518913558.28
+Request time out
+clientPing_v1 17 4 1518913562.29
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 17 5 1518913562.29
+message from server: LOWER CASE
+RTT: 0.011000
+clientPing_v1 17 6 1518913562.3
+message from server: LOWER CASE
+RTT: 0.069000
+clientPing_v1 17 7 1518913562.37
+message from server: LOWER CASE
+RTT: 0.033000
+clientPing_v1 17 8 1518913562.4
+message from server: LOWER CASE
+RTT: 0.050000
+clientPing_v1 17 9 1518913562.45
+message from server: LOWER CASE
+RTT: 0.014000
+clientPing_v1 17 10 1518913562.47
+Request time out
+clientPing_v1 17 11 1518913566.47
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 17 12 1518913566.48
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 17 13 1518913566.48
+message from server: LOWER CASE
+RTT: 0.026000
+clientPing_v1 17 14 1518913566.51
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 17 15 1518913566.51
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 17 16 1518913566.52
+Request time out
+clientPing_v1 17 17 1518913570.52
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 18 1 1518913570.53
+Request time out
+clientPing_v1 18 2 1518913574.53
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 18 3 1518913574.54
+message from server: LOWER CASE
+RTT: 0.015000
+clientPing_v1 18 4 1518913574.55
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 18 5 1518913574.56
+message from server: LOWER CASE
+RTT: 0.027000
+clientPing_v1 18 6 1518913574.58
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 18 7 1518913574.59
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 18 8 1518913574.6
+Request time out
+clientPing_v1 18 9 1518913578.6
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 18 10 1518913578.6
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 18 11 1518913578.6
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 18 12 1518913578.61
+Request time out
+clientPing_v1 18 13 1518913582.61
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 18 14 1518913582.61
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 18 15 1518913582.61
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 18 16 1518913582.62
+message from server: LOWER CASE
+RTT: 0.023000
+clientPing_v1 18 17 1518913582.64
+Request time out
+clientPing_v1 18 18 1518913586.64
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 19 1 1518913586.64
+Request time out
+clientPing_v1 19 2 1518913590.64
+Request time out
+clientPing_v1 19 3 1518913594.64
+message from server: LOWER CASE
+RTT: 0.035000
+clientPing_v1 19 4 1518913594.68
+Request time out
+clientPing_v1 19 5 1518913598.68
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 19 6 1518913598.69
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 19 7 1518913598.69
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 19 8 1518913598.69
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 19 9 1518913598.69
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 19 10 1518913598.7
+Request time out
+clientPing_v1 19 11 1518913602.7
+Request time out
+clientPing_v1 19 12 1518913606.7
+Request time out
+clientPing_v1 19 13 1518913610.7
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 19 14 1518913610.71
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 19 15 1518913610.71
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 19 16 1518913610.71
+Request time out
+clientPing_v1 19 17 1518913614.71
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 19 18 1518913614.72
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 19 19 1518913614.72
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 1 1518913614.72
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 20 2 1518913614.72
+Request time out
+clientPing_v1 20 3 1518913618.72
+message from server: LOWER CASE
+RTT: 0.020000
+clientPing_v1 20 4 1518913618.74
+Request time out
+clientPing_v1 20 5 1518913622.74
+message from server: LOWER CASE
+RTT: 0.011000
+clientPing_v1 20 6 1518913622.75
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 20 7 1518913622.76
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 20 8 1518913622.76
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 9 1518913622.76
+Request time out
+clientPing_v1 20 10 1518913626.76
+Request time out
+clientPing_v1 20 11 1518913630.76
+message from server: LOWER CASE
+RTT: 0.028000
+clientPing_v1 20 12 1518913630.79
+Request time out
+clientPing_v1 20 13 1518913634.79
+Request time out
+clientPing_v1 20 14 1518913638.79
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 15 1518913638.8
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 20 16 1518913638.8
+Request time out
+clientPing_v1 20 17 1518913642.8
+message from server: LOWER CASE
+RTT: 0.017000
+clientPing_v1 20 18 1518913642.82
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 20 19 1518913642.82
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 20 1518913642.83
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 21 1 1518913642.83
+message from server: LOWER CASE
+RTT: 0.113000
+clientPing_v1 21 2 1518913642.94
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 21 3 1518913642.95
+Request time out
+clientPing_v1 21 4 1518913646.95
+Request time out
+clientPing_v1 21 5 1518913650.95
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 21 6 1518913650.95
+Request time out
+clientPing_v1 21 7 1518913654.95
+message from server: LOWER CASE
+RTT: 0.032000
+clientPing_v1 21 8 1518913654.98
+message from server: LOWER CASE
+RTT: 0.014000
+clientPing_v1 21 9 1518913655.0
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 21 10 1518913655.0
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 21 11 1518913655.01
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 21 12 1518913655.01
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 21 13 1518913655.02
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 21 14 1518913655.02
+Request time out
+clientPing_v1 21 15 1518913659.02
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 21 16 1518913659.02
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 21 17 1518913659.03
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 21 18 1518913659.03
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 21 19 1518913659.04
+Request time out
+clientPing_v1 21 20 1518913663.04
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 21 21 1518913663.05
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 22 1 1518913663.05
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 22 2 1518913663.05
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 3 1518913663.05
+Request time out
+clientPing_v1 22 4 1518913667.05
+Request time out
+clientPing_v1 22 5 1518913671.05
+Request time out
+clientPing_v1 22 6 1518913675.05
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 7 1518913675.06
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 8 1518913675.06
+Request time out
+clientPing_v1 22 9 1518913679.06
+Request time out
+clientPing_v1 22 10 1518913683.06
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 22 11 1518913683.06
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 12 1518913683.07
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 13 1518913683.07
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 14 1518913683.07
+message from server: LOWER CASE
+RTT: 0.024000
+clientPing_v1 22 15 1518913683.1
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 16 1518913683.1
+Request time out
+clientPing_v1 22 17 1518913687.1
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 18 1518913687.1
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 22 19 1518913687.11
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 22 20 1518913687.11
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 22 21 1518913687.11
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 22 1518913687.11
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 23 1 1518913687.12
+Request time out
+clientPing_v1 23 2 1518913691.12
+Request time out
+clientPing_v1 23 3 1518913695.12
+message from server: LOWER CASE
+RTT: 0.013000
+clientPing_v1 23 4 1518913695.13
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 23 5 1518913695.13
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 6 1518913695.14
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 23 7 1518913695.14
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 23 8 1518913695.14
+Request time out
+clientPing_v1 23 9 1518913699.15
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 10 1518913699.15
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 23 11 1518913699.15
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 12 1518913699.15
+Request time out
+clientPing_v1 23 13 1518913703.15
+Request time out
+clientPing_v1 23 14 1518913707.15
+Request time out
+clientPing_v1 23 15 1518913711.15
+Request time out
+clientPing_v1 23 16 1518913715.15
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 23 17 1518913715.16
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 18 1518913715.16
+Request time out
+clientPing_v1 23 19 1518913719.16
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 23 20 1518913719.17
+message from server: LOWER CASE
+RTT: 0.065000
+clientPing_v1 23 21 1518913719.23
+Request time out
+clientPing_v1 23 22 1518913723.23
+message from server: LOWER CASE
+RTT: 0.016000
+clientPing_v1 23 23 1518913723.25
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 1 1518913723.25
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 24 2 1518913723.26
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 3 1518913723.26
+Request time out
+clientPing_v1 24 4 1518913727.26
+message from server: LOWER CASE
+RTT: 0.020000
+clientPing_v1 24 5 1518913727.28
+Request time out
+clientPing_v1 24 6 1518913731.28
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 24 7 1518913731.29
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 24 8 1518913731.29
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 24 9 1518913731.29
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 10 1518913731.3
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 24 11 1518913731.3
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 12 1518913731.3
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 24 13 1518913731.31
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 24 14 1518913731.31
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 24 15 1518913731.31
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 16 1518913731.32
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 24 17 1518913731.32
+Request time out
+clientPing_v1 24 18 1518913735.33
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 19 1518913735.33
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 20 1518913735.33
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 21 1518913735.33
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 24 22 1518913735.34
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 24 23 1518913735.34
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 24 24 1518913735.34
+Request time out
+clientPing_v1 25 1 1518913739.34
+message from server: LOWER CASE
+RTT: 0.222000
+clientPing_v1 25 2 1518913739.57
+message from server: LOWER CASE
+RTT: 0.017000
+clientPing_v1 25 3 1518913739.58
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 25 4 1518913739.59
+Request time out
+clientPing_v1 25 5 1518913743.59
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 25 6 1518913743.6
+Request time out
+clientPing_v1 25 7 1518913747.6
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 25 8 1518913747.6
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 9 1518913747.61
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 10 1518913747.61
+Request time out
+clientPing_v1 25 11 1518913751.61
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 12 1518913751.61
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 25 13 1518913751.62
+Request time out
+clientPing_v1 25 14 1518913755.62
+Request time out
+clientPing_v1 25 15 1518913759.62
+message from server: LOWER CASE
+RTT: 0.023000
+clientPing_v1 25 16 1518913759.64
+Request time out
+clientPing_v1 25 17 1518913763.64
+Request time out
+clientPing_v1 25 18 1518913767.64
+Request time out
+clientPing_v1 25 19 1518913771.64
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 25 20 1518913771.65
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 21 1518913771.65
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 25 22 1518913771.66
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 23 1518913771.66
+Request time out
+clientPing_v1 25 24 1518913775.66
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 25 25 1518913775.67
+message from server: LOWER CASE
+RTT: 0.019000
+m=5 for this round
+clientPing_v1 1 1 1518913775.69
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 2 1 1518913775.69
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 2 2 1518913775.69
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 3 1 1518913775.7
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 3 2 1518913775.7
+Request time out
+clientPing_v1 3 3 1518913780.7
+message from server: LOWER CASE
+RTT: 0.031000
+clientPing_v1 4 1 1518913780.73
+Request time out
+clientPing_v1 4 2 1518913785.73
+Request time out
+clientPing_v1 4 3 1518913790.73
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 4 4 1518913790.74
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 5 1 1518913790.74
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 5 2 1518913790.74
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 5 3 1518913790.74
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 5 4 1518913790.75
+message from server: LOWER CASE
+RTT: 0.027000
+clientPing_v1 5 5 1518913790.77
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 6 1 1518913790.78
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 6 2 1518913790.78
+Request time out
+clientPing_v1 6 3 1518913795.78
+Request time out
+clientPing_v1 6 4 1518913800.78
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 6 5 1518913800.78
+Request time out
+clientPing_v1 6 6 1518913805.78
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 7 1 1518913805.79
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 7 2 1518913805.8
+message from server: LOWER CASE
+RTT: 0.010000
+clientPing_v1 7 3 1518913805.81
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 7 4 1518913805.81
+Request time out
+clientPing_v1 7 5 1518913810.81
+Request time out
+clientPing_v1 7 6 1518913815.82
+Request time out
+clientPing_v1 7 7 1518913820.82
+Request time out
+clientPing_v1 8 1 1518913825.82
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 8 2 1518913825.82
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 8 3 1518913825.82
+Request time out
+clientPing_v1 8 4 1518913830.82
+message from server: LOWER CASE
+RTT: 0.736000
+clientPing_v1 8 5 1518913831.56
+message from server: LOWER CASE
+RTT: 0.025000
+clientPing_v1 8 6 1518913831.58
+Request time out
+clientPing_v1 8 7 1518913836.58
+message from server: LOWER CASE
+RTT: 0.243000
+clientPing_v1 8 8 1518913836.83
+message from server: LOWER CASE
+RTT: 0.056000
+clientPing_v1 9 1 1518913836.88
+message from server: LOWER CASE
+RTT: 0.010000
+clientPing_v1 9 2 1518913836.89
+message from server: LOWER CASE
+RTT: 0.030000
+clientPing_v1 9 3 1518913836.92
+Request time out
+clientPing_v1 9 4 1518913841.92
+message from server: LOWER CASE
+RTT: 0.020000
+clientPing_v1 9 5 1518913841.94
+Request time out
+clientPing_v1 9 6 1518913846.94
+Request time out
+clientPing_v1 9 7 1518913851.94
+message from server: LOWER CASE
+RTT: 0.017000
+clientPing_v1 9 8 1518913851.96
+Request time out
+clientPing_v1 9 9 1518913856.96
+Request time out
+clientPing_v1 10 1 1518913861.96
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 10 2 1518913861.96
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 10 3 1518913861.97
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 10 4 1518913861.97
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 10 5 1518913861.97
+Request time out
+clientPing_v1 10 6 1518913866.97
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 10 7 1518913866.98
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 10 8 1518913866.98
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 10 9 1518913866.98
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 10 10 1518913866.99
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 11 1 1518913866.99
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 11 2 1518913866.99
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 11 3 1518913867.0
+Request time out
+clientPing_v1 11 4 1518913872.0
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 11 5 1518913872.0
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 11 6 1518913872.01
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 11 7 1518913872.01
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 11 8 1518913872.01
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 11 9 1518913872.02
+Request time out
+clientPing_v1 11 10 1518913877.02
+Request time out
+clientPing_v1 11 11 1518913882.02
+Request time out
+clientPing_v1 12 1 1518913887.02
+Request time out
+clientPing_v1 12 2 1518913892.02
+message from server: LOWER CASE
+RTT: 0.013000
+clientPing_v1 12 3 1518913892.04
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 12 4 1518913892.04
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 12 5 1518913892.04
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 12 6 1518913892.04
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 12 7 1518913892.05
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 12 8 1518913892.05
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 12 9 1518913892.05
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 12 10 1518913892.06
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 12 11 1518913892.06
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 12 12 1518913892.06
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 13 1 1518913892.06
+Request time out
+clientPing_v1 13 2 1518913897.06
+message from server: LOWER CASE
+RTT: 0.035000
+clientPing_v1 13 3 1518913897.1
+message from server: LOWER CASE
+RTT: 0.024000
+clientPing_v1 13 4 1518913897.12
+Request time out
+clientPing_v1 13 5 1518913902.12
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 13 6 1518913902.13
+Request time out
+clientPing_v1 13 7 1518913907.13
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 13 8 1518913907.13
+Request time out
+clientPing_v1 13 9 1518913912.14
+message from server: LOWER CASE
+RTT: 0.025000
+clientPing_v1 13 10 1518913912.16
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 13 11 1518913912.17
+message from server: LOWER CASE
+RTT: 0.010000
+clientPing_v1 13 12 1518913912.18
+Request time out
+clientPing_v1 13 13 1518913917.18
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 14 1 1518913917.19
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 14 2 1518913917.19
+Request time out
+clientPing_v1 14 3 1518913922.19
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 14 4 1518913922.2
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 14 5 1518913922.2
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 14 6 1518913922.21
+Request time out
+clientPing_v1 14 7 1518913927.21
+message from server: LOWER CASE
+RTT: 0.017000
+clientPing_v1 14 8 1518913927.22
+message from server: LOWER CASE
+RTT: 0.017000
+clientPing_v1 14 9 1518913927.24
+message from server: LOWER CASE
+RTT: 0.042000
+clientPing_v1 14 10 1518913927.28
+Request time out
+clientPing_v1 14 11 1518913932.29
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 14 12 1518913932.29
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 14 13 1518913932.29
+Request time out
+clientPing_v1 14 14 1518913937.29
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 15 1 1518913937.3
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 15 2 1518913937.3
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 15 3 1518913937.31
+message from server: LOWER CASE
+RTT: 0.017000
+clientPing_v1 15 4 1518913937.32
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 15 5 1518913937.33
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 15 6 1518913937.34
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 15 7 1518913937.34
+Request time out
+clientPing_v1 15 8 1518913942.34
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 15 9 1518913942.34
+Request time out
+clientPing_v1 15 10 1518913947.34
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 15 11 1518913947.35
+message from server: LOWER CASE
+RTT: 0.013000
+clientPing_v1 15 12 1518913947.36
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 15 13 1518913947.37
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 15 14 1518913947.37
+Request time out
+clientPing_v1 15 15 1518913952.37
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 16 1 1518913952.37
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 16 2 1518913952.37
+Request time out
+clientPing_v1 16 3 1518913957.37
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 16 4 1518913957.38
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 16 5 1518913957.38
+Request time out
+clientPing_v1 16 6 1518913962.38
+message from server: LOWER CASE
+RTT: 0.063000
+clientPing_v1 16 7 1518913962.45
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 16 8 1518913962.45
+message from server: LOWER CASE
+RTT: 0.030000
+clientPing_v1 16 9 1518913962.48
+message from server: LOWER CASE
+RTT: 0.031000
+clientPing_v1 16 10 1518913962.51
+Request time out
+clientPing_v1 16 11 1518913967.51
+message from server: LOWER CASE
+RTT: 0.098000
+clientPing_v1 16 12 1518913967.61
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 16 13 1518913967.61
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 16 14 1518913967.62
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 16 15 1518913967.62
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 16 16 1518913967.62
+Request time out
+clientPing_v1 17 1 1518913972.62
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 17 2 1518913972.63
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 17 3 1518913972.64
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 17 4 1518913972.64
+message from server: LOWER CASE
+RTT: 0.030000
+clientPing_v1 17 5 1518913972.67
+message from server: LOWER CASE
+RTT: 0.010000
+clientPing_v1 17 6 1518913972.68
+message from server: LOWER CASE
+RTT: 0.021000
+clientPing_v1 17 7 1518913972.7
+message from server: LOWER CASE
+RTT: 0.017000
+clientPing_v1 17 8 1518913972.72
+Request time out
+clientPing_v1 17 9 1518913977.72
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 17 10 1518913977.72
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 17 11 1518913977.73
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 17 12 1518913977.73
+Request time out
+clientPing_v1 17 13 1518913982.73
+Request time out
+clientPing_v1 17 14 1518913987.73
+message from server: LOWER CASE
+RTT: 0.012000
+clientPing_v1 17 15 1518913987.74
+Request time out
+clientPing_v1 17 16 1518913992.74
+Request time out
+clientPing_v1 17 17 1518913997.74
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 18 1 1518913997.75
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 18 2 1518913997.76
+message from server: LOWER CASE
+RTT: 0.035000
+clientPing_v1 18 3 1518913997.79
+Request time out
+clientPing_v1 18 4 1518914002.79
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 18 5 1518914002.79
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 18 6 1518914002.8
+Request time out
+clientPing_v1 18 7 1518914007.8
+message from server: LOWER CASE
+RTT: 0.010000
+clientPing_v1 18 8 1518914007.81
+message from server: LOWER CASE
+RTT: 0.016000
+clientPing_v1 18 9 1518914007.82
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 18 10 1518914007.83
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 18 11 1518914007.83
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 18 12 1518914007.83
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 18 13 1518914007.83
+Request time out
+clientPing_v1 18 14 1518914012.83
+message from server: LOWER CASE
+RTT: 0.032000
+clientPing_v1 18 15 1518914012.87
+Request time out
+clientPing_v1 18 16 1518914017.87
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 18 17 1518914017.87
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 18 18 1518914017.87
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 19 1 1518914017.88
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 19 2 1518914017.88
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 19 3 1518914017.88
+Request time out
+clientPing_v1 19 4 1518914022.88
+Request time out
+clientPing_v1 19 5 1518914027.88
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 19 6 1518914027.88
+Request time out
+clientPing_v1 19 7 1518914032.88
+message from server: LOWER CASE
+RTT: 0.010000
+clientPing_v1 19 8 1518914032.89
+Request time out
+clientPing_v1 19 9 1518914037.89
+message from server: LOWER CASE
+RTT: 0.063000
+clientPing_v1 19 10 1518914037.96
+Request time out
+clientPing_v1 19 11 1518914042.96
+Request time out
+clientPing_v1 19 12 1518914047.96
+message from server: LOWER CASE
+RTT: 0.030000
+clientPing_v1 19 13 1518914047.99
+Request time out
+clientPing_v1 19 14 1518914052.99
+Request time out
+clientPing_v1 19 15 1518914057.99
+Request time out
+clientPing_v1 19 16 1518914062.99
+message from server: LOWER CASE
+RTT: 0.016000
+clientPing_v1 19 17 1518914063.0
+message from server: LOWER CASE
+RTT: 0.039000
+clientPing_v1 19 18 1518914063.04
+message from server: LOWER CASE
+RTT: 0.031000
+clientPing_v1 19 19 1518914063.07
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 1 1518914063.08
+message from server: LOWER CASE
+RTT: 0.044000
+clientPing_v1 20 2 1518914063.12
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 20 3 1518914063.13
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 20 4 1518914063.13
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 5 1518914063.13
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 20 6 1518914063.13
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 7 1518914063.14
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 8 1518914063.14
+Request time out
+clientPing_v1 20 9 1518914068.14
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 10 1518914068.14
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 11 1518914068.15
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 20 12 1518914068.15
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 13 1518914068.15
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 20 14 1518914068.16
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 20 15 1518914068.16
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 20 16 1518914068.16
+Request time out
+clientPing_v1 20 17 1518914073.16
+Request time out
+clientPing_v1 20 18 1518914078.16
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 20 19 1518914078.17
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 20 20 1518914078.17
+Request time out
+clientPing_v1 21 1 1518914083.17
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 21 2 1518914083.18
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 21 3 1518914083.18
+message from server: LOWER CASE
+RTT: 0.012000
+clientPing_v1 21 4 1518914083.19
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 21 5 1518914083.2
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 21 6 1518914083.2
+message from server: LOWER CASE
+RTT: 0.007000
+clientPing_v1 21 7 1518914083.21
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 21 8 1518914083.21
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 21 9 1518914083.21
+Request time out
+clientPing_v1 21 10 1518914088.22
+Request time out
+clientPing_v1 21 11 1518914093.22
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 21 12 1518914093.22
+Request time out
+clientPing_v1 21 13 1518914098.22
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 21 14 1518914098.23
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 21 15 1518914098.23
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 21 16 1518914098.23
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 21 17 1518914098.24
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 21 18 1518914098.24
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 21 19 1518914098.24
+Request time out
+clientPing_v1 21 20 1518914103.24
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 21 21 1518914103.25
+message from server: LOWER CASE
+RTT: 0.020000
+clientPing_v1 22 1 1518914103.27
+Request time out
+clientPing_v1 22 2 1518914108.27
+message from server: LOWER CASE
+RTT: 0.013000
+clientPing_v1 22 3 1518914108.28
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 4 1518914108.29
+Request time out
+clientPing_v1 22 5 1518914113.29
+Request time out
+clientPing_v1 22 6 1518914118.29
+message from server: LOWER CASE
+RTT: 0.028000
+clientPing_v1 22 7 1518914118.32
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 8 1518914118.32
+Request time out
+clientPing_v1 22 9 1518914123.32
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 22 10 1518914123.33
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 11 1518914123.33
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 22 12 1518914123.33
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 13 1518914123.33
+Request time out
+clientPing_v1 22 14 1518914128.33
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 22 15 1518914128.34
+message from server: LOWER CASE
+RTT: 0.013000
+clientPing_v1 22 16 1518914128.35
+message from server: LOWER CASE
+RTT: 0.016000
+clientPing_v1 22 17 1518914128.37
+Request time out
+clientPing_v1 22 18 1518914133.37
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 22 19 1518914133.37
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 22 20 1518914133.38
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 22 21 1518914133.38
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 22 22 1518914133.38
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 1 1518914133.38
+Request time out
+clientPing_v1 23 2 1518914138.38
+Request time out
+clientPing_v1 23 3 1518914143.38
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 4 1518914143.39
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 5 1518914143.39
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 23 6 1518914143.39
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 7 1518914143.39
+message from server: LOWER CASE
+RTT: 0.045000
+clientPing_v1 23 8 1518914143.44
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 23 9 1518914143.44
+Request time out
+clientPing_v1 23 10 1518914148.44
+Request time out
+clientPing_v1 23 11 1518914153.44
+Request time out
+clientPing_v1 23 12 1518914158.44
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 23 13 1518914158.45
+Request time out
+clientPing_v1 23 14 1518914163.45
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 23 15 1518914163.46
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 23 16 1518914163.46
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 23 17 1518914163.47
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 23 18 1518914163.47
+Request time out
+clientPing_v1 23 19 1518914168.47
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 23 20 1518914168.47
+Request time out
+clientPing_v1 23 21 1518914173.47
+message from server: LOWER CASE
+RTT: 0.017000
+clientPing_v1 23 22 1518914173.49
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 23 23 1518914173.5
+Request time out
+clientPing_v1 24 1 1518914178.5
+Request time out
+clientPing_v1 24 2 1518914183.5
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 3 1518914183.51
+Request time out
+clientPing_v1 24 4 1518914188.51
+Request time out
+clientPing_v1 24 5 1518914193.51
+Request time out
+clientPing_v1 24 6 1518914198.51
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 7 1518914198.51
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 8 1518914198.51
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 24 9 1518914198.52
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 10 1518914198.52
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 11 1518914198.52
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 12 1518914198.53
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 13 1518914198.53
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 14 1518914198.53
+Request time out
+clientPing_v1 24 15 1518914203.53
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 24 16 1518914203.54
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 24 17 1518914203.55
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 24 18 1518914203.55
+Request time out
+clientPing_v1 24 19 1518914208.56
+message from server: LOWER CASE
+RTT: 0.008000
+clientPing_v1 24 20 1518914208.56
+Request time out
+clientPing_v1 24 21 1518914213.56
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 24 22 1518914213.57
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 24 23 1518914213.57
+message from server: LOWER CASE
+RTT: 0.005000
+clientPing_v1 24 24 1518914213.58
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 1 1518914213.58
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 2 1518914213.58
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 3 1518914213.59
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 4 1518914213.59
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 25 5 1518914213.59
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 6 1518914213.59
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 7 1518914213.6
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 25 8 1518914213.6
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 25 9 1518914213.6
+message from server: LOWER CASE
+RTT: 0.028000
+clientPing_v1 25 10 1518914213.63
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 25 11 1518914213.63
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 12 1518914213.64
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 13 1518914213.64
+message from server: LOWER CASE
+RTT: 0.002000
+clientPing_v1 25 14 1518914213.64
+Request time out
+clientPing_v1 25 15 1518914218.64
+Request time out
+clientPing_v1 25 16 1518914223.64
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 25 17 1518914223.65
+message from server: LOWER CASE
+RTT: 0.004000
+clientPing_v1 25 18 1518914223.65
+Request time out
+clientPing_v1 25 19 1518914228.65
+message from server: LOWER CASE
+RTT: 0.026000
+clientPing_v1 25 20 1518914228.68
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 25 21 1518914228.69
+Request time out
+clientPing_v1 25 22 1518914233.69
+message from server: LOWER CASE
+RTT: 0.009000
+clientPing_v1 25 23 1518914233.7
+message from server: LOWER CASE
+RTT: 0.006000
+clientPing_v1 25 24 1518914233.7
+message from server: LOWER CASE
+RTT: 0.003000
+clientPing_v1 25 25 1518914233.71
+message from server: LOWER CASE
+RTT: 0.002000
+[0.03900003433227539, 0.006000041961669922, 0.022500038146972656, 0.007999956607818604, 0.008666753768920898, 0.006199932098388672, 0.0035999774932861327, 0.0036250054836273193, 0.007857152393886022, 0.003888898425632053, 0.0059999986128373576, 0.005833347638448079, 0.0036363818428733134, 0.008999983469645182, 0.019333309597439237, 0.0038889249165852866, 0.021272724325006657, 0.009615384615384616, 0.011333306630452475, 0.005499973893165588, 0.011625006794929504, 0.010999965667724609, 0.010789494765432258, 0.005374997854232788, 0.007200014591217041]
+[0, 0.039999961853027344, 0.004999995231628418, 0.003000020980834961, 0.035000006357828774, 0.010000030199686686, 0.006999969482421875, 0.014166673024495443, 0.013333360354105631, 0.004142863409859794, 0.0045714037758963445, 0.004272721030495383, 0.005444420708550347, 0.003928576196943011, 0.011454560539939186, 0.02019999027252197, 0.006333351135253906, 0.010285718100411552, 0.005307711087740385, 0.005200004577636719, 0.01264289447239467, 0.003117659512688132, 0.005222227838304307, 0.005294112598194796, 0.0029999833357961555]
+[0.003000020980834961, 0.0035001039505004883, 0.008333285649617514, 0.017999966939290363, 0.010666688283284506, 0.006750047206878662, 0.009750008583068848, 0.03400003910064697, 0.007666667302449544, 0.0043333106570773655, 0.0050000349680582685, 0.014555533727010092, 0.00950000286102295, 0.005090930245139382, 0.014700031280517578, 0.008333345254262289, 0.011900019645690919, 0.005666673183441162, 0.005750000476837158, 0.0180999755859375, 0.005142859050205776, 0.0070000171661376955, 0.0050588215098661534, 0.005761895860944476, 0.007099997997283935]
+[0.002000093460083008, 0.003000020980834961, 0.002000093460083008, 0.0036667188008626304, 0.010500073432922363, 0.005750000476837158, 0.014833370844523111, 0.012000004450480143, 0.004000016621180943, 0.018285717282976423, 0.004499951998392741, 0.003111124038696289, 0.007666627566019694, 0.013111114501953125, 0.013142858232770647, 0.00733335812886556, 0.01907691588768592, 0.007999999182564872, 0.006000002225240071, 0.008230759547306942, 0.01337498426437378, 0.0041875094175338745, 0.009500009672982352, 0.0042999863624572756, 0.02118748426437378]
+[0.003000020980834961, 0.0025000572204589844, 0.016499876976013184, 0.00299990177154541, 0.007600021362304687, 0.0036667188008626304, 0.007666667302449544, 0.17750000953674316, 0.01924997568130493, 0.003333356645372179, 0.004000016621180943, 0.00354545766657049, 0.015375018119812012, 0.010900020599365234, 0.005666673183441162, 0.021000007788340252, 0.010333359241485596, 0.008499979972839355, 0.020000004768371583, 0.005812495946884155, 0.0054117511300479666, 0.006749987602233887, 0.00792855875832694, 0.004235295688404757, 0.006095239094325474]
